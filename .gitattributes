@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+datasets/votos_dep_fed_CEBRAP.csv filter=lfs diff=lfs merge=lfs -text
