@@ -109,7 +109,7 @@ O projeto é dividido em scripts principais localizados na pasta `scrips/`.
 O projeto está organizado da seguinte forma:
 
 ```
-└── 📁FILTROS_VOTOS
+└── 📁votos_deputados_federais_CEBRAP
     ├── 📁datasets
     │   └── votos_dep_fed_CEBRAP.csv  # Dataset bruto (gerenciado pelo Git LFS)
     │
