@@ -63,8 +63,8 @@ Siga os passos abaixo para ter uma cópia do projeto rodando localmente.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/FILTROS_VOTOS.git](https://github.com/seu-usuario/FILTROS_VOTOS.git)
-    cd FILTROS_VOTOS
+    git clone [https://github.com/ramoncbarbosa/votos_deputados_federais_cebrap.git](https://github.com/ramoncbarbosa/votos_deputados_federais_cebrap.git)
+    cd votos_deputados_federais_cebrap
     ```
     2.  **Baixe o arquivo grande com Git LFS:**
     Após a clonagem, o arquivo `.csv` será apenas um ponteiro. Rode este comando para baixar o arquivo real:
@@ -109,7 +109,7 @@ O projeto é dividido em scripts principais localizados na pasta `scrips/`.
 O projeto está organizado da seguinte forma:
 
 ```
-└── 📁votos_deputados_federais_CEBRAP
+└── 📁votos_deputados_federais_cebrap
     ├── 📁datasets
     │   └── votos_dep_fed_CEBRAP.csv  # Dataset bruto (gerenciado pelo Git LFS)
     │
